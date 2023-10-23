@@ -13,7 +13,7 @@
 // --------------------1) Prompt: Create a function that takes in a number (greater than 2) and returns an array containing the Fibonacci sequence. The length of the array is determined by the argument of the function.
 
 // a) Create a test with expect statements for each of the variables provided.
-
+// 
 const fibonacciLength1 = 6
 // Expected output: [1, 1, 2, 3, 5, 8]
 

@@ -8,7 +8,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is JSX? What is one syntax difference between HTML and JSX?
 
-Your answer: JSX is what allows you to use JS into HTML. 
+Your answer:  JSX is what allows you to use JS into HTML. 
 
 Researched answer: JSX, which stands for JavaScript XML, is a syntax extension for JavaScript often used with React. It allows you to write HTML-like code within your JavaScript or React code. JSX is primarily used for describing the structure and content of user interfaces in React applications. JSX is then transpiled (converted) into JavaScript code that can be understood by web browsers.
 
